@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\vs\My_Game\main.cpp(400,24): warning C4584: 'Creaper': base-class 'TEXTURE' is already a base-class of 'BLOOD'
+C:\Users\Admin\Desktop\vs\My_Game\main.cpp(111): message : see declaration of 'TEXTURE'
+C:\Users\Admin\Desktop\vs\My_Game\main.cpp(215): message : see declaration of 'BLOOD'
+C:\Users\Admin\Desktop\vs\My_Game\main.cpp(673,128): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+  My_Game.vcxproj -> C:\Users\Admin\Desktop\vs\My_Game\x64\Debug\My_Game.exe
